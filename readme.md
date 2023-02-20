@@ -30,4 +30,4 @@ To use the executable:
 
 ### Sample Output
 Executing docker pull command using this toolkit:
-<img src="https://ik.imagekit.io/m5gtndqap/Devops-knife/DevOps-Knife-docker.png?ik-sdk-version=javascript-1.4.3&updatedAt=1676862175900"/>
+<img src="https://ik.imagekit.io/m5gtndqap/Devops-knife/pull.png?ik-sdk-version=javascript-1.4.3&updatedAt=1676862771565"/>
